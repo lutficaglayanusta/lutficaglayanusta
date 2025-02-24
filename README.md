@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I’m Lütfi Çağlayan Usta, a Full Stack Developer navigating the world of software. I develop projects using technologies like HTML, CSS, JavaScript, Node.js, React, and MongoDB, and I continuously strive to improve myself. Learning new technologies and advancing further in this field is a passion of mine. If you’d like to get in touch with me or learn more about my projects, feel free to reach out!Hello! I’m [Your Name], a Full Stack Developer navigating the world of software. I develop projects using technologies like HTML, CSS, JavaScript, Node.js, React, and MongoDB, and I continuously strive to improve myself. Learning new technologies and advancing further in this field is a passion of mine. If you’d like to get in touch with me or learn more about my projects, feel free to reach out!
+Hello! I’m Lütfi Çağlayan Usta, a Full Stack Developer navigating the world of software. I develop projects using technologies like HTML, CSS, JavaScript, Node.js, React, and MongoDB, and I continuously strive to improve myself. Learning new technologies and advancing further in this field is a passion of mine. If you’d like to get in touch with me or learn more about my projects, feel free to reach out!
 
 
 ## 🌐 Socials:
